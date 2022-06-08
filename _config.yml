@@ -7,7 +7,7 @@ baseurl: ""
 url: "nulll0x1.github.io"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -20,8 +20,8 @@ paginate_path: /page:num/
 permalink: /:categories/:title/
 
 #Theme Settings 
-minimal_mistakes_skin: default
-locale: "en"
+#minimal_mistakes_skin: default
+#locale: "en"
 
 future: true
 
